@@ -94,3 +94,7 @@ Content-Type: application/json
 	"target": ""
 }
 ```
+
+#### Declaration in Grafana
+
+![grafana datasource declaration](.public/img/centreon_grafana_datasource.PNG)
