@@ -97,4 +97,4 @@ Content-Type: application/json
 
 #### Declaration in Grafana
 
-![grafana datasource declaration](.public/img/centreon_grafana_datasource.PNG)
+![grafana datasource declaration](./public/img/centreon_grafana_datasource.PNG)
