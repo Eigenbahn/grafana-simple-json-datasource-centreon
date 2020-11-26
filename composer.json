@@ -17,7 +17,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Transatel/lib-eloquent-centreon.git"
+            "url": "https://github.com/Eigenbahn/lib-eloquent-centreon.git"
         }
     ],
     "require": {
